@@ -1,9 +1,10 @@
 # ios_findtheater
 iOS application 
 
-This was a class project myself and a class mate had worked on together. The goal of the project was to use features we had not learned in class.
-We decided to make an application that displays all of the current movies playing at Cineplex theaters, the show times and the theater nearest to you.
-If you found a movie you wanted to go to see you could click on it and it would bring up a map giving you directions to the theater you chose based 
-on the list of theaters nearest to you. 
+This was a class project myself and a class mate had worked on together. 
 
-There is also the ability to rate movies and leave reviews on them within the application.
+Programming Language: Swift Development Environment: Xcode 10.3, deployment target is minimum iOS 12.4, iPhone XR Simulator
+
+Purpose: The purpose of our app is to help users plan their movie night by discovering movies that are currently playing in theatres, soon to be in theatres, and highest rated movies of all. Users can view movie details and summary, save movies to their Favourites list and set date reminder notification for a movie's theatre release dates. The app provides a Map and Directions feature, and allows user to post discussion comments. The app allows users to register for an account and securely authenticate user logins with Firebase.
+
+Result: Our team received a project grade of 88%.
